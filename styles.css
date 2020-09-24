@@ -1,0 +1,107 @@
+:root {
+	var(--redd): #F76C6C;
+}
+
+/*BackgroundColors for different webpages*/
+#homeBody{
+	background-color:#A8D0E6;
+}
+#mediaBody{
+	background-color:#24305E;
+}
+#aboutBody{
+	background-color: #F76C6C;
+}
+#teamBody{
+	background-color: #F8E9A1;
+}
+
+/* light blue colors: #A8D0E6 #CEEDFD #759FB5; 
+red colors: #F76C6C #F89999 #C45353;
+dark blue: #24305E, #445288 #15245D;
+yellow: #F8E9A1 #FAF3D2 #FCE781;
+other text on right hand corner is 55px regular
+dimensions: 1920 1080;
+browser: 1680 949;
+*/
+.header{
+	height:100px;
+	width: 1680px;
+	position:absolute;
+	top:0;
+	left:0;
+}
+/*differet color for different headers*/
+#homeHeader{
+	background-color:#CEEDFD;
+}
+#mediaHeader{
+	background-color:#445288;
+}
+#aboutHeader{
+	background-color:#F89999;
+}
+#teamHeader{
+	background-color: #FAF3D2;
+}
+.text{
+	font-family:"Khmer MN";
+	color:#FFFFFD;
+}
+.teamText{
+	font-family:"Khmer MN";
+	color:#000000;
+}
+#frontPageText{
+	font-size: 124px;
+	text-align: center;
+	position:relative;
+	top:100px;
+
+}
+#indicatorText{
+	font-size:55px;
+	position:absolute;
+	top:-37px;
+	right:20px;
+}
+
+#menu{
+	height:60px;
+	/*transform:translate(10px,-39vh);*/
+	position:absolute;
+	top:20px;
+	left:20px;
+}
+/*media*/
+#video{
+    left: 50%;
+    position: absolute;
+    top: 55%;
+    transform: translate(-50%, -50%);
+
+
+}
+/*our team*/
+
+.column {
+  
+}
+
+/* Clearfix (clear floats) */
+.row {
+  display: flex;
+  max-width: 85vw;
+  margin: auto;
+  transform: translate(0, 150px);
+  justify-content: space-between;
+}
+.teamImage{
+	height:400px;
+	width:300px;
+}
+.teamText{
+	font-size:1.8em;
+	color:#000000;
+	text-align:center;
+}
