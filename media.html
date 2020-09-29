@@ -3,13 +3,20 @@
 <head>
 	<title>30MFF</title>
 	<link href="styles.css" rel="stylesheet">
+	<script src="script.js"></script>
 </head>
 <body id="mediaBody">
 <div class ="header" id="mediaHeader">
-	<img src="whiteMenu.png" class ="images" id="menu">
+	<img src="./Images/whiteMenu.png" class ="images dropbtn" id="menu" onclick="myFunction()">
+	<div id="dropDown" id="mediaDropDown" class="dropContent">
+    	<a href="index.html">Home</a>
+    	<a href="about.html">About</a>
+    	<a href="media.html">Media</a>
+    	<a href="team.html">Our Team</a>
+ 	</div>
 	<h2 class="text" id="indicatorText">Media</h2>
 </div>
-<video id="video"width="1500" height="740"controls>
+<video id="video" src="https://www.commlab.nyuadim.com/MangF20/Com_Lab_Film.mp4" controls>
 	
 	</video>
 </body>
