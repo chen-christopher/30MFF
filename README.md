@@ -1,10 +1,10 @@
-# Pass It On 
+# *Pass It On*
 
-Pass It On is a short film created for the 30 Minutes Film Festival (30MFF). It was created and edited within thirty minutes. 
+*Pass It On* is a short film created for the 30 Minutes Film Festival (30MFF). It was created and edited within thirty minutes. 
 
 This film is a screen capture of our team, Quim Paredes, Muhammad bin Nauman, Yoki Xue, and me (Christopher Chen), in a Zoom meeting. In this film, we're passing objects to each other as if we were physically nearby. We hoped to create something that was fun and uplifting within the constraints of a virtual meeting. COVID-19 has put a wrench in most of our plans and we aimed to make the most out of the situation. Even though we're different people with unique backgrounds, we all share some similarities. This film celebrates these similarities and differences while sending an important message: we can all come together to collaborate creatively. 
 
-To implement this concept, we first identified our shared objects. We also wanted to incoporate something we held close to our identity: our nationality. The rest of the objects were common everyday things that would use such as a pen, a water bottle, and earphones. Additionally, in the midst of a global pandemic, masks are necessary, although we most definitely should not share masks.
+To implement this concept, we first identified our shared objects. We also wanted to incoporate something we held close to our identity: our nationality. The rest of the objects were common everyday things that would use such as a pen, a water bottle, and earphones. Additionally, in the midst of a global pandemic, masks are necessary (although we most definitely should not share masks).
 
 Initially, we were completely lost when given the task of creating and editing a film within thirty minutes. We pitched various ideas such as playing with apples and recent Tik Tok trends. However, none of these ideas really stuck until Quim started asking if we had similar objects. From there, we decided to pass items to each other as if we were physically together. Once we decided upon our items (passport, water bottle, phone, earphones, and masks) we started screen recording. Lastly, we picked cheerful music to fit with the overall tone of the story. 
 
