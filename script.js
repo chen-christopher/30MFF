@@ -1,7 +1,23 @@
 //click to show dropdown
-function myFunction() {
+function mediaOn() {
   //gets element ID then changes it from hidden to show
-  document.getElementById("dropDown").classList.toggle("show");
+  // document.getElementById("homeDropDown").classList.toggle("show");
+  document.getElementById("mediaDropDown").classList.toggle("show");
+}
+function homeOn() {
+  //gets element ID then changes it from hidden to show
+  // document.getElementById("homeDropDown").classList.toggle("show");
+  document.getElementById("homeDropDown").classList.toggle("show");
+}
+function aboutOn() {
+  //gets element ID then changes it from hidden to show
+  // document.getElementById("homeDropDown").classList.toggle("show");
+  document.getElementById("aboutDropDown").classList.toggle("show");
+}
+function teamOn() {
+  //gets element ID then changes it from hidden to show
+  // document.getElementById("homeDropDown").classList.toggle("show");
+  document.getElementById("teamDropDown").classList.toggle("show");
 }
 window.onclick = function(event){ //make sure it's any click outside of the drop button
   if (!event.target.matches('.dropbtn')) {
