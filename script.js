@@ -31,3 +31,4 @@ window.onclick = function(event){ //make sure it's any click outside of the drop
     }
   }
 }
+//learned from https://www.w3schools.com/howto/howto_js_dropdown.asp
