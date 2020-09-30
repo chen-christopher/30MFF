@@ -48,15 +48,7 @@ browser: 1680 949;
 	font-family:"Khmer MN";
 	color:#FFFFFD;
 }
-/*home page title text */
-#frontPageText{
-	font-size: 10em;
-	text-align: center;
-	position:relative;
-	top:100px;
-	margin-bottom:2vh;
 
-}
 /*top right text that shows where you are */
 #indicatorText{
 	font-size:55px;
@@ -77,6 +69,15 @@ browser: 1680 949;
 	opacity:0.5;
 }
 /*home*/
+/*home page title text */
+#frontPageText{
+	font-size: 10em;
+	text-align: center;
+	position:relative;
+	top:100px;
+	margin-bottom:5vh;
+
+}
 .rowImage{
 	max-width:45vw;
 	margin:auto;
