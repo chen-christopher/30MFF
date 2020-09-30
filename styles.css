@@ -138,17 +138,18 @@ browser: 1680 949;
 
 .description{
 	/*margin: 0;*/
-	font-size:1.6em;
+	font-size:1.4em;
 	font-family:"Khmer MN";
 	color:#000000;
-	/*text-align:center;*/
+	text-align:center;
 	display:inline;
 }
 /*icons next to email and git */
 .icon {
-	padding: 2px 12px 0px 36px;
+/*	padding: 2px 12px 0px 36px;*/
+	padding: 0.2vh 0.7vw 0vh 3.7vw;
 	float: left;
-	height:32px;
+	height:3.4vh;
 	display:inline;
 }
 
