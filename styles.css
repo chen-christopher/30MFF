@@ -99,6 +99,8 @@ browser: 1680 949;
 /*our team*/
 
 .column {
+	max-width: 80%;
+	margin:auto;
   
 }
 .attribute{
@@ -117,7 +119,7 @@ browser: 1680 949;
 /*team images/text */
 .row {
   display: flex;
-  max-width: 85vw;
+  max-width: 85%;
   margin: auto;
   transform: translate(0, 15.8vh);
   justify-content: space-between;
