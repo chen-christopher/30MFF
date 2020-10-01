@@ -6,6 +6,13 @@ This film is a screen capture of our team, Quim Paredes, Muhammad bin Nauman, Yo
 
 To implement this concept, we first identified our shared objects. We also wanted to incoporate something we held close to our identity: our nationality. The rest of the objects were common everyday things that would use such as a pen, a water bottle, and earphones. Additionally, in the midst of a global pandemic, masks are necessary (although we most definitely should not share masks).
 
+For my website, there are four pages: Home, About, Media, and Our Team. The main theme of this website is the color scheme. Most of the colors are either soothing or warm.
+![](./DocumentationPhotos/Home.png)
+![](./DocumentationPhotos/About.png)
+![](./DocumentationPhotos/Media.png)
+![](./DocumentationPhotos/Team.png)
+I main interactions are the burger menu and the dropdown. When you hover over the burger menu, the opacity of it drops to indicate that you are able to click it. 
+
 Initially, we were completely lost when given the task of creating and editing a film within thirty minutes. We pitched various ideas such as playing with apples and recent Tik Tok trends. However, none of these ideas really stuck until Quim started asking if we had similar objects. From there, we decided to pass items to each other as if we were physically together. Once we decided upon our items (passport, water bottle, phone, earphones, and masks) we started screen recording. Lastly, we picked cheerful music to fit with the overall tone of the story. 
 
 When we were creating the short film, I didn't have any expectations other than creating the film within the given time constraints. The results definitely exceeded my expectations and we had fun filming and editing. Through the transferring of objects, we realized that we share numerous similarities even though we hardly knew each other. 
