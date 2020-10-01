@@ -8,15 +8,20 @@ To implement this concept, we first identified our shared objects. We also wante
 
 For my website, there are four pages: Home, About, Media, and Our Team. The main theme of this website is the color scheme. Most of the colors are either soothing or warm.
 
-This is the Home page:
+*This is the Home page:*
 ![Home Page](./DocumentationPhotos/Home.png)
-This is the About page:
+
+*This is the About page:*
 ![About Page](./DocumentationPhotos/About.png)
-This is the Media page:
+
+*This is the Media page:*
 ![Media Page](./DocumentationPhotos/Media.png)
-This is the Our Team page:
+
+*This is the Our Team page:*
 ![Team Page](./DocumentationPhotos/Team.png)
+
 I main interactions are the burger menu and the dropdown. When you hover over the burger menu, the opacity of it drops to indicate that you are able to click it. 
+![Hovering](./DocumentationPhotos/Hover.gif)
 
 Initially, we were completely lost when given the task of creating and editing a film within thirty minutes. We pitched various ideas such as playing with apples and recent Tik Tok trends. However, none of these ideas really stuck until Quim started asking if we had similar objects. From there, we decided to pass items to each other as if we were physically together. Once we decided upon our items (passport, water bottle, phone, earphones, and masks) we started screen recording. Lastly, we picked cheerful music to fit with the overall tone of the story. 
 
